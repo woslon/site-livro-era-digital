@@ -6,6 +6,10 @@ div{
     border-top: 1px solid #d5d5d5;
     margin: 25px;
 }
+h3{
+  border-bottom: 1px solid #d5d5d5;
+  padding-bottom: 35px;
+}
 
 img{
     width: 190px;
